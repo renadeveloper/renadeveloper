@@ -7,3 +7,8 @@
 - 🤝 I’m looking to collaborate on Data Science projects
 - ✍️ Repositories in English and Brazilian Portuguese
 - 💬 Ask me about anything
+
+Repository naming conventions:
+
+`course`: prefix to identify repositories created for specific courses I have taken. These repositories contain materials, exercises, and projects related to the course curriculum. They serve as a resource for myself and others who are enrolled in or interested in the same course.
+
